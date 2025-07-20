@@ -6,7 +6,7 @@
   <li><b>Click Start →</b> 25:00 starts counting down</li>
   <li><b>After 25 mins →</b> auto 5-min break</li>
   <li><b>After 4 cycles → 20-min long break</b></li>
-  <li><b> ✔ mark appears after each work session</li>
+  <li><b> ✔</b> mark appears after each work session</li>
 </ul>
 <h3>Modules Used:</h3>
 <ul>
